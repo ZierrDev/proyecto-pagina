@@ -1,4 +1,4 @@
-##Samuel Sierra Rocha
-##Kevin Castrillon 
+## Samuel Sierra Rocha
+## Kevin Castrillon 
 # proyecto-pagina
 Proyecto HTML
